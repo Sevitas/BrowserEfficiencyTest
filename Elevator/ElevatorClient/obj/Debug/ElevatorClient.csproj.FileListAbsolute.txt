@@ -1,0 +1,6 @@
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorClient\bin\Debug\ElevatorClient.dll
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorClient\bin\Debug\ElevatorClient.pdb
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorClient\obj\Debug\ElevatorClient.csprojResolveAssemblyReference.cache
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorClient\obj\Debug\ElevatorClient.csproj.CoreCompileInputs.cache
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorClient\obj\Debug\ElevatorClient.dll
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorClient\obj\Debug\ElevatorClient.pdb

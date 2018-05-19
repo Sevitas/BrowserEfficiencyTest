@@ -1,0 +1,11 @@
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorServer\bin\Debug\DefaultTraceProfile.wprp
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorServer\bin\Debug\ElevatorServer.exe.config
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorServer\bin\Debug\ElevatorServer.exe
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorServer\bin\Debug\ElevatorServer.pdb
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorServer\bin\Debug\ElevatorClient.dll
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorServer\bin\Debug\ElevatorClient.pdb
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorServer\obj\Debug\ElevatorServer.csprojResolveAssemblyReference.cache
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorServer\obj\Debug\ElevatorServer.csproj.CoreCompileInputs.cache
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorServer\obj\Debug\ElevatorServer.csproj.CopyComplete
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorServer\obj\Debug\ElevatorServer.exe
+C:\Users\sevci\Desktop\PV260\Elevator\ElevatorServer\obj\Debug\ElevatorServer.pdb
